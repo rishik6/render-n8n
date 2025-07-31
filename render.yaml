@@ -7,6 +7,8 @@
 # can upgrade to paid instance types at any time to
 # increase resources.
 
+# trigger rebuild
+
 services:
   - type: web
     plan: free
